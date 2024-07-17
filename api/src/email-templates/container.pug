@@ -1,0 +1,38 @@
+doctype html
+html
+head
+    meta(charset='UTF-8')
+    title Title
+
+    link(rel='preconnect' href='https://fonts.googleapis.com')
+    link(rel='preconnect' href='https://fonts.gstatic.com' crossorigin='')
+    link(href='https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap' rel='stylesheet')
+    style
+        include templates.css
+.body-wrapper
+    .wrapper
+        .container
+            block content
+
+        .footer-container
+            .p40
+                .df
+                    img(src='https://ci3.googleusercontent.com/proxy/9A3a1TA6Bh0RAmVqtdE5P9Z8SdpMQsxFBej9freij52Jz3U4dG4idTHySBCwWROmaNIXVmM2bO1Ewgzn23JDu7yUnw=s0-d-e1-ft#https://assets.nflxext.com/us/email/gem/nflx.png' alt='' width='24px' height='44px' style='padding-right: 40px')
+                    .footer
+                        .footer-block
+                            p.color-gray.fz14
+                                | Questions? Visit the
+                                span Help Center
+                            small Netflix International B.V.
+                            .p20
+                                p.color-gray.fz12
+                                    span Communication Settings
+                                p.color-gray.fz12
+                                    span Terms of Use
+                                p.color-gray.fz12
+                                    span Privacy
+                                p.color-gray.fz12
+                                    span Help Center
+                            small This message was mailed to #{email} by Netflix because you created a Netflix account.
+                            br
+                            small SRC: 12546_en_UA

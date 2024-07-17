@@ -1,0 +1,1352 @@
+[
+  {
+    "make": "alfa romeo",
+    "model": "4c",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "alfa romeo",
+    "model": "giulia",
+    "class": "sedan",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "chevrolet",
+    "model": "camaro",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "chevrolet",
+    "model": "captiva",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "chevrolet",
+    "model": "corvette",
+    "class": "sport",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "chevrolet",
+    "model": "cruze",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "chevrolet",
+    "model": "malibu",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "chevrolet",
+    "model": "spark",
+    "class": "hatchback",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "chevrolet",
+    "model": "suburban c1500",
+    "class": "SUV",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "porsche",
+    "model": "911 turbo",
+    "class": "sport",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "porsche",
+    "model": "718 boxster",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "porsche",
+    "model": "cayenne ",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "diesel",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "porsche",
+    "model": "cayenne e-hybrid",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "porsche",
+    "model": "cayman",
+    "class": "sport",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "porsche",
+    "model": "macan s",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "porsche",
+    "model": "panamera turbo",
+    "class": "sedan",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "honda",
+    "model": "accord",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "honda",
+    "model": "civic hybrid",
+    "class": "hatchback",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "honda",
+    "model": "cr-v",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "subaru",
+    "model": "forester awd",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2016,
+    "image": ""
+  },
+  {
+    "make": "subaru",
+    "model": "impreza",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2019,
+    "image": ""
+  },
+  {
+    "make": "subaru",
+    "model": "legacy",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "subaru",
+    "model": "outback awd",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2019,
+    "image": ""
+  },
+  {
+    "make": "mazda",
+    "model": "3",
+    "class": "hatchback",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "mazda",
+    "model": "cx-3",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "mazda",
+    "model": "6",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "mazda",
+    "model": "cx-5",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2016,
+    "image": ""
+  },
+  {
+    "make": "mitsubishi",
+    "model": "eclipse cross",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "mitsubishi",
+    "model": "lancer",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2014,
+    "image": ""
+  },
+  {
+    "make": "mitsubishi",
+    "model": "outlander",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "lexus",
+    "model": "ct 200h",
+    "class": "hatchback",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2016,
+    "image": ""
+  },
+  {
+    "make": "lexus",
+    "model": "gs",
+    "class": "sedan",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "lexus",
+    "model": "gx 460",
+    "class": "SUV",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2023,
+    "image": ""
+  },
+  {
+    "make": "lexus",
+    "model": "lx 600",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "lexus",
+    "model": "nx 250",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "lexus",
+    "model": "rx 350",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "toyota",
+    "model": "camry",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "toyota",
+    "model": "corolla",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2013,
+    "image": ""
+  },
+  {
+    "make": "toyota",
+    "model": "prius v",
+    "class": "hatchback",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "toyota",
+    "model": "rav4 prime",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "toyota",
+    "model": "sequoia",
+    "class": "SUV",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "toyota",
+    "model": "gr supra",
+    "class": "sport",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "toyota",
+    "model": "tundra",
+    "class": "SUV",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2021,
+    "image": ""
+  },
+  {
+    "make": "toyota",
+    "model": "yaris ia",
+    "class": "hatchback",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "bmw",
+    "model": "i3 bev",
+    "class": "hatchback",
+    "drive": "rwd",
+    "fuel_type": "electricity",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "bmw",
+    "model": "i8",
+    "class": "coupe",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "bmw",
+    "model": "m3",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "bmw",
+    "model": "x2 m35i",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "bmw",
+    "model": "m4 convertible",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "bmw",
+    "model": "x4 m40i",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "bmw",
+    "model": "z4 m40i",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "bmw",
+    "model": "m5 cs",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "bmw",
+    "model": "m6",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "bmw",
+    "model": "x5 sdrive",
+    "class": "SUV",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "volkswagen",
+    "model": "cc",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "volkswagen",
+    "model": "golf",
+    "class": "hatchback",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2013,
+    "image": ""
+  },
+  {
+    "make": "volkswagen",
+    "model": "passat",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2019,
+    "image": ""
+  },
+  {
+    "make": "volkswagen",
+    "model": "tiguan",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2021,
+    "image": ""
+  },
+  {
+    "make": "volkswagen",
+    "model": "touareg",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "sls amg gt",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "gls450",
+    "class": "SUV",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "a220",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "amg gt 53 plus",
+    "class": "sedan",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "cla250",
+    "class": "sedan",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "cls63 amg s",
+    "class": "sedan",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "c300",
+    "class": "coupe",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "gle350",
+    "class": "SUV",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "sls amg gt",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "gls450",
+    "class": "SUV",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "amg gla45",
+    "class": "SUV",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "mercedes-benz",
+    "model": "glc300",
+    "class": "SUV",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2021,
+    "image": ""
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "G63 AMG",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2020,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "a3",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2023,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "a4",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2020,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "a6",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "diesel",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "a8 l",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2019,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "q3 s",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "RS q5",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2020,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "sq7",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2021,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "r8",
+    "class": "sport",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2019,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "s7",
+    "class": "sedan",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2020,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "tts",
+    "class": "coupe",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "RS Q8",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "audi",
+    "model": "E-tron",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "electricity",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "kia",
+    "model": "optima hybrid",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "kia",
+    "model": "rio eco",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "kia",
+    "model": "sorento hybrid",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "kia",
+    "model": "soul",
+    "class": "MPV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "kia",
+    "model": "sportage",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2021,
+    "image": ""
+  },
+  {
+    "make": "land rover",
+    "model": "defender 110",
+    "class": "SUV",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "land rover",
+    "model": "discovery sport",
+    "class": "SUV",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "land rover",
+    "model": "range rover evoque",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2020,
+    "image": ""
+  },
+  {
+    "make": "land rover",
+    "model": "range rover sport",
+    "class": "SUV",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2020,
+    "image": ""
+  },
+  {
+    "make": "dodge",
+    "model": "challenger",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2020,
+    "image": ""
+  },
+  {
+    "make": "dodge",
+    "model": "charger",
+    "class": "sedan",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2019,
+    "image": ""
+  },
+  {
+    "make": "dodge",
+    "model": "journey",
+    "class": "MPV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "dodge",
+    "model": "viper srt",
+    "class": "sport",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "ford",
+    "model": "c-max hybrid",
+    "class": "MPV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2014,
+    "image": ""
+  },
+  {
+    "make": "ford",
+    "model": "edge",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2016,
+    "image": ""
+  },
+  {
+    "make": "ford",
+    "model": "explorer",
+    "class": "SUV",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2020,
+    "image": ""
+  },
+  {
+    "make": "ford",
+    "model": "f-150",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "electricity",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "ford",
+    "model": "focus RS",
+    "class": "hatchback",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2016,
+    "image": ""
+  },
+  {
+    "make": "ford",
+    "model": "fusion",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "ford",
+    "model": "mustang",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "ford",
+    "model": "ranger",
+    "class": "SUV",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "hyundai",
+    "model": "accent",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "hyundai",
+    "model": "elantra se",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "hyundai",
+    "model": "genesis",
+    "class": "sedan",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2019,
+    "image": ""
+  },
+  {
+    "make": "hyundai",
+    "model": "santa fe sport",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "hyundai",
+    "model": "tucson",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "infiniti",
+    "model": "qx80",
+    "class": "SUV",
+    "drive": "4wd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "infiniti",
+    "model": "qx50",
+    "class": "SUV",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2019,
+    "image": ""
+  },
+  {
+    "make": "jaguar",
+    "model": "xe",
+    "class": "sedan",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "jaguar",
+    "model": "xf ",
+    "class": "sedan",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2020,
+    "image": ""
+  },
+  {
+    "make": "jeep",
+    "model": "cherokee",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "jeep",
+    "model": "compass",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "jeep",
+    "model": "wrangler",
+    "class": "SUV",
+    "drive": "4wd",
+    "fuel_type": "diesel",
+    "transmission": "a",
+    "year": 2021,
+    "image": ""
+  },
+  {
+    "make": "nissan",
+    "model": "gt-r",
+    "class": "coupe",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "nissan",
+    "model": "juke",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "nissan",
+    "model": "leaf",
+    "class": "coupe",
+    "drive": "fwd",
+    "fuel_type": "electricity",
+    "transmission": "a",
+    "year": 2021,
+    "image": ""
+  },
+  {
+    "make": "volvo",
+    "model": "s60",
+    "class": "sedan",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "volvo",
+    "model": "s80",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "volvo",
+    "model": "v60",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2021,
+    "image": ""
+  },
+  {
+    "make": "volvo",
+    "model": "XC60",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2016,
+    "image": ""
+  },
+  {
+    "make": "volvo",
+    "model": "XC90",
+    "class": "SUV",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2021,
+    "image": ""
+  },
+  {
+    "make": "mini",
+    "model": "cooper s",
+    "class": "coupe",
+    "drive": "fwd",
+    "fuel_type": "gas",
+    "transmission": "m",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "ferrari",
+    "model": "458 italia",
+    "class": "sport",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2015,
+    "image": ""
+  },
+  {
+    "make": "ferrari",
+    "model": "california t",
+    "class": "sport",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2018,
+    "image": ""
+  },
+  {
+    "make": "tesla",
+    "model": "model s",
+    "class": "sedan",
+    "drive": "awd",
+    "fuel_type": "electricity",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "tesla",
+    "model": "model x",
+    "class": "SUV",
+    "drive": "awd",
+    "fuel_type": "electricity",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "bentley",
+    "model": "continental gt",
+    "class": "coupe",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2022,
+    "image": ""
+  },
+  {
+    "make": "lamborghini",
+    "model": "aventador s Roadster",
+    "class": "sport",
+    "drive": "awd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2019,
+    "image": ""
+  },
+  {
+    "make": "maserati",
+    "model": "granturismo",
+    "class": "sedan",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  },
+  {
+    "make": "rolls-royce",
+    "model": "ghost",
+    "class": "sedan",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2019,
+    "image": ""
+  },
+  {
+    "make": "rolls-royce",
+    "model": "phantom",
+    "class": "coupe",
+    "drive": "rwd",
+    "fuel_type": "gas",
+    "transmission": "a",
+    "year": 2017,
+    "image": ""
+  }
+]

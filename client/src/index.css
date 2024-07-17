@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+}
+
+@layer components {
+    .btn {
+        @apply flex items-center text-sm gap-2 text-custom_white py-2 px-4 rounded-md
+    }
+
+    .input {
+        @apply bg-transparent py-3 px-2 border bg-custom_white border-custom_border placeholder:text-custom_text rounded-sm outline-none focus:border-custom_border placeholder:text-sm cursor-pointer;
+    }
+
+    .container {
+        @apply w-[1180px]
+    }
+
+}
+
+@layer utilities {
+    .btn-orange {
+        @apply bg-custom_primary hover:bg-[#264BC8]
+    }
+
+    .btn-red {
+        @apply bg-red-600 hover:bg-red-700
+    }
+
+    .forgotBg{
+        background-image: url("./assets/forgot.jpg");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .center-flex{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .blur-bg {
+        background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+        backdrop-filter: blur(15px);
+        border-radius: 20px;
+    }
+
+
+}
